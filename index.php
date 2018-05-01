@@ -9,7 +9,7 @@
 <body>
 <div id="container">
 		<div id="header">
-        	<h1>Slick<span class="off">Blue</span></h1>
+        	<h1>Slack<span class="off">Board</span></h1>
             <h2>Internet Hangout</h2>
         </div>   
         
@@ -20,7 +20,7 @@
                 <li class="menuitem"><a href="#">Live Chat</a></li>
                 <li class="menuitem"><a href="#">Memes</a></li>
                 <li class="menuitem"><a href="#">Downloads</a></li>
-              <li class="menuitem"><a href="#">Information</a></li>
+              <li class="menuitem"><a href="information.html">Information</a></li>
             </ul>
         </div>
         
@@ -31,9 +31,7 @@
 				<div id="leftmenu_main">    
                 
                 <h3>Cool Sites</h3>
-                        
                 <ul>
-                    <li><a href="#"></a></li>
                     <li><a href="#">Library Genisis</a></li>
                     <li><a href="#">/r/dankmemes</a></li>
                     <li><a href="#">/r/deepfriedmemes</a></li>
