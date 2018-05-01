@@ -21,7 +21,7 @@
                 <li class="menuitem"><a href="chat.php">Live Chat</a></li>
                 <li class="menuitem"><a href="memes.php">Memes</a></li>
                 <li class="menuitem"><a href="downloads.php">Downloads</a></li>
-              <li class="menuitem"><a href="information.html">Information</a></li>
+              <li class="menuitem"><a href="information.php">Information</a></li>
             </ul>
         </div>
         
@@ -34,8 +34,8 @@
                 <h3>Cool Sites</h3>
                 <ul>
                     <li><a href="http://gen.lib.rus.ec/">Library Genisis</a></li>
-                    <li><a href="reddit.com/r/dankmemes">/r/dankmemes</a></li>
-                    <li><a href="reddit.com/r/deepfriedmemes">/r/deepfriedmemes</a></li>
+                    <li><a href="http://reddit.com/r/dankmemes">/r/dankmemes</a></li>
+                    <li><a href="http://reddit.com/r/deepfriedmemes">/r/deepfriedmemes</a></li>
                 </ul>
 </div>
                 
