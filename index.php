@@ -1,139 +1,79 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>NightBeach | florida web design</title>
+</head>
 
+<body>
+<div id="container">
+		<div id="header">
+        	<h1>Slick<span class="off">Blue</span></h1>
+            <h2>A template by Bryant Smith</h2>
+        </div>   
+        
+        <div id="menu">
+        	<ul>
+            	<li class="menuitem"><a href="#">Home</a></li>
+                <li class="menuitem"><a href="#">About</a></li>
+                <li class="menuitem"><a href="#">Products</a></li>
+                <li class="menuitem"><a href="#">Services</a></li>
+                <li class="menuitem"><a href="#">Design</a></li>
+              <li class="menuitem"><a href="#">Contact</a></li>
+            </ul>
+        </div>
+        
+        <div id="leftmenu">
 
+        <div id="leftmenu_top"></div>
 
-
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"><title></title>
-	
-	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)">
-	<meta name="created" content="2018-04-30T17:38:52.297608380">
-	<meta name="changed" content="2018-04-30T17:55:52.707724199">
-	<style type="text/css">
-		td p.cjk { font-size: 10pt }
-	</style></head><body dir="ltr" lang="en-US">
-<p style="background: rgb(0, 170, 173) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><font face="Ubuntu"><font style="font-size: 60pt;" size="7"><u>Welcome!</u></font></font></p>
-<p align="center"><font face="Ubuntu"><font style="font-size: 28pt;" size="6"><span style="text-decoration: none;">Thank
-you for visiting! This website has a variety of services, including an
-anonymous chatroom, programming forum download hoster, and a meme
-page! Feel free to look around as you wish!</span></font></font></p>
-<table style="page-break-after: auto; page-break-inside: auto;" cellpadding="0" cellspacing="0" width="100%">
-	<col width="200*">
-	<col width="56*">
-	<tbody><tr valign="top">
-		<td style="background: rgb(0, 147, 83) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#009353" height="77" width="78%">
-			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
-			<br>
-<br>
-
-			</p>
-			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
-			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3"><b><span style="text-decoration: none;">PAGE
-			INDEX</span></b></font></font></font></p>
-			<p class="western" style="font-style: normal; text-decoration: none;" align="left">
-			<br>
-
-			</p>
-		</td>
-		<td style="background: rgb(0, 147, 83) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#009353" width="22%">
-			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
-			<br>
-<br>
-
-			</p>
-			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
-			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3"><b><span style="text-decoration: none;">NEWS
-			AND SITE  ANNOUNCEMENTS</span></b></font></font></font></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td style="background: rgb(190, 227, 211) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#bee3d3" height="174" width="78%">
-			<table style="page-break-inside: avoid;" cellpadding="4" cellspacing="0" width="100%">
-				<col width="128*">
-				<col width="128*">
-				<tbody><tr valign="top">
-					<td style="border-style: double none double double; border-color: rgb(128, 128, 128) -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: 1px medium 1px 1px; padding: 0.04in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">LINK</font></font></p>
-					</td>
-					<td style="border: 1px double rgb(128, 128, 128); padding: 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">DESCRIPTION</font></font></p>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><br>
-
-						</p>
-					</td>
-					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">An
-						anonymous, uncensored text based chat interface. Does not
-						require login.</font></font></p>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><br>
-
-						</p>
-					</td>
-					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">A
-						simple programming forum board</font></font></p>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><br>
-
-						</p>
-					</td>
-					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">Links to downloads of cool stuff<br>
-</font></font></p>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><br>
-
-						</p>
-					</td>
-					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">A
-						dank-ass meme board</font></font></p>
-					</td>
-				</tr>
-				<tr valign="top">
-					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><br>
-
-						</p>
-					</td>
-					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">Help
-						and information about this website</font></font></p>
-					</td>
-				</tr>
-			</tbody></table>
-			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
-			<br>
-<br>
-
-			</p>
-		</td>
-		<td style="background: rgb(190, 227, 211) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" bgcolor="#bee3d3" width="22%">This site was created!!!! -- April 30th, 2018<br>
-<br>
-</td>
-	</tr>
-</tbody></table>
-<div style="text-align: center;"><br>
-SITE LICENSE: <a href="LICENSE" target="_blank">LICENSE</a><br>
+				<div id="leftmenu_main">    
+                
+                <h3>Links</h3>
+                        
+                <ul>
+                    <li><a href="#">SEO</a></li>
+                    <li><a href="#">PHP</a></li>
+                    <li><a href="#">Ajax</a></li>
+                    <li><a href="#">jQuery</a></li>
+                    <li><a href="#">Web design</a></li>
+                    <li><a href="#">Web Programming</a></li>
+                    <li><a href="#">Content Creation</a></li>
+                    <li><a href="#">Internet Marketing</a></li>
+                    <li><a href="#">XHTML Templates</a></li>
+                </ul>
 </div>
-<p align="left"><br>
-<br>
-
-</p>
-
-
-</body></html>
+                
+                
+              <div id="leftmenu_bottom"></div>
+        </div>
+        
+        
+        
+        
+		<div id="content">
+        
+        
+        <div id="content_top"></div>
+        <div id="content_main">
+        	<h2>You may use this template in any manner you like. All I ask is that you leave the link back to my site at the bottom of the page. </h2>
+        	<p>&nbsp;</p>
+           	<p>&nbsp;</p>
+       	  <h3>Template Notes</h3>
+        	<p>The main image can be changed by either replacing the current image with another one of the same size (900x402), or using a new one of what ever dimensions you'd like.  If you choose the latter, you must open up style.css and change the dimensions of #mainpic, as well as the file name if that is different. If you would like to move the heading around in the above image, find &quot;#mainpic h1&quot; in style.css and modify it's &quot;left&quot; and &quot;top&quot; properties, this is also true for the h2 tag.</p>
+        	<p>&nbsp;</p>
+<h3>More information</h3>
+        	<p>I decided to leave the content portion open for the templates users to do as they wish with a blank canvas. I don't like to restrict my users too much, and for this reason I leave the defining of any content related styles to you.</p>
+        	<p>&nbsp;</p>
+        	<h3>Template Notes</h3>
+            <p>The main image can be changed by either replacing the current image with another one of the same size (900x402), or using a new one of what ever dimensions you'd like.  If you choose the latter, you must open up style.css and change the dimensions of #mainpic, as well as the file name if that is different. If you would like to move the heading around in the above image, find &quot;#mainpic h1&quot; in style.css and modify it's &quot;left&quot; and &quot;top&quot; properties, this is also true for the h2 tag.</p>
+            <p>&nbsp;</p>
+</div>
+        <div id="content_bottom"></div>
+            
+            <div id="footer"><h3><a href="http://www.bryantsmith.com">florida web design</a></h3></div>
+      </div>
+   </div>
+</body>
+</html>
