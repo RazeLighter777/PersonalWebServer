@@ -1,151 +1,134 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)"/>
-	<meta name="created" content="2018-04-30T17:38:52.297608380"/>
-	<meta name="changed" content="2018-04-30T17:55:52.707724199"/>
+<html><head>
+
+
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"><title></title>
+	
+	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)">
+	<meta name="created" content="2018-04-30T17:38:52.297608380">
+	<meta name="changed" content="2018-04-30T17:55:52.707724199">
 	<style type="text/css">
 		td p.cjk { font-size: 10pt }
-	</style>
-</head>
-<body lang="en-US" dir="ltr">
-<p align="center" style="background: #00aaad"><font face="Ubuntu"><font size="7" style="font-size: 60pt"><u>Welcome!</u></font></font></p>
-<p align="center"><font face="Ubuntu"><font size="6" style="font-size: 28pt"><span style="text-decoration: none">Thank
-you for visiting! This website has a number of purposes, including an
+	</style></head><body dir="ltr" lang="en-US">
+<p style="background: rgb(0, 170, 173) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" align="center"><font face="Ubuntu"><font style="font-size: 60pt;" size="7"><u>Welcome!</u></font></font></p>
+<p align="center"><font face="Ubuntu"><font style="font-size: 28pt;" size="6"><span style="text-decoration: none;">Thank
+you for visiting! This website has a variety of services, including an
 anonymous chatroom, programming forum download hoster, and a meme
 page! Feel free to look around as you wish!</span></font></font></p>
-<table width="100%" cellpadding="0" cellspacing="0" style="page-break-after: auto; page-break-inside: auto">
+<table style="page-break-after: auto; page-break-inside: auto;" cellpadding="0" cellspacing="0" width="100%">
 	<col width="200*">
 	<col width="56*">
-	<tr valign="top">
-		<td width="78%" height="77" bgcolor="#009353" style="background: #009353" style="border-top: 1px solid #009353; border-bottom: none; border-left: 1px solid #009353; border-right: none; padding: 0in" sdnum="1033;0;@">
-			<p class="western" align="center" style="font-style: normal; text-decoration: none">
-			<br/>
-<br/>
+	<tbody><tr valign="top">
+		<td style="background: rgb(0, 147, 83) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#009353" height="77" width="78%">
+			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
+			<br>
+<br>
 
 			</p>
-			<p class="western" align="center" style="font-style: normal; text-decoration: none">
-			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt"><b><span style="text-decoration: none">PAGE
+			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
+			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3"><b><span style="text-decoration: none;">PAGE
 			INDEX</span></b></font></font></font></p>
-			<p class="western" align="left" style="font-style: normal; text-decoration: none">
-			<br/>
+			<p class="western" style="font-style: normal; text-decoration: none;" align="left">
+			<br>
 
 			</p>
 		</td>
-		<td width="22%" bgcolor="#009353" style="background: #009353" style="border-top: 1px solid #009353; border-bottom: none; border-left: 1px solid #009353; border-right: 1px solid #009353; padding: 0in" sdnum="1033;0;@">
-			<p class="western" align="center" style="font-style: normal; text-decoration: none">
-			<br/>
-<br/>
+		<td style="background: rgb(0, 147, 83) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#009353" width="22%">
+			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
+			<br>
+<br>
 
 			</p>
-			<p class="western" align="center" style="font-style: normal; text-decoration: none">
-			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt"><b><span style="text-decoration: none">NEWS
-			AND ANNOUNCEMENTS</span></b></font></font></font></p>
+			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
+			<font color="#ffffff"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3"><b><span style="text-decoration: none;">NEWS
+			AND SITE  ANNOUNCEMENTS</span></b></font></font></font></p>
 		</td>
 	</tr>
 	<tr valign="top">
-		<td width="78%" height="174" bgcolor="#bee3d3" style="background: #bee3d3" style="border-top: none; border-bottom: 1px solid #009353; border-left: 1px solid #009353; border-right: none; padding: 0in" sdnum="1033;0;@">
-			<table width="100%" cellpadding="4" cellspacing="0" style="page-break-inside: avoid">
+		<td style="background: rgb(190, 227, 211) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" sdnum="1033;0;@" bgcolor="#bee3d3" height="174" width="78%">
+			<table style="page-break-inside: avoid;" cellpadding="4" cellspacing="0" width="100%">
 				<col width="128*">
 				<col width="128*">
-				<tr valign="top">
-					<td width="50%" style="border-top: 1px double #808080; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0.04in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">LINK</font></font></p>
+				<tbody><tr valign="top">
+					<td style="border-style: double none double double; border-color: rgb(128, 128, 128) -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: 1px medium 1px 1px; padding: 0.04in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">LINK</font></font></p>
 					</td>
-					<td width="50%" style="border: 1px double #808080; padding: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">DESCRIPTION</font></font></p>
+					<td style="border: 1px double rgb(128, 128, 128); padding: 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">DESCRIPTION</font></font></p>
 					</td>
 				</tr>
 				<tr valign="top">
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><br/>
+					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><br>
 
 						</p>
 					</td>
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: 1px double #808080; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">An
+					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">An
 						anonymous, uncensored text based chat interface. Does not
 						require login.</font></font></p>
 					</td>
 				</tr>
 				<tr valign="top">
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><br/>
+					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><br>
 
 						</p>
 					</td>
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: 1px double #808080; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">A
+					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">A
 						simple programming forum board</font></font></p>
 					</td>
 				</tr>
 				<tr valign="top">
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><br/>
+					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><br>
 
 						</p>
 					</td>
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: 1px double #808080; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">Blogs
-						from the anonymous founder of this site.</font></font></p>
+					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">Links to downloads of cool stuff<br>
+</font></font></p>
 					</td>
 				</tr>
 				<tr valign="top">
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><br/>
+					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><br>
 
 						</p>
 					</td>
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: 1px double #808080; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">A
+					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">A
 						dank-ass meme board</font></font></p>
 					</td>
 				</tr>
 				<tr valign="top">
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: none; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0in">
-						<p class="western" align="center"><br/>
+					<td style="border-style: none none double double; border-color: -moz-use-text-color -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium medium 1px 1px; padding: 0in 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><br>
 
 						</p>
 					</td>
-					<td width="50%" style="border-top: none; border-bottom: 1px double #808080; border-left: 1px double #808080; border-right: 1px double #808080; padding-top: 0in; padding-bottom: 0.04in; padding-left: 0.04in; padding-right: 0.04in">
-						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt">Help
+					<td style="border-style: none double double; border-color: -moz-use-text-color rgb(128, 128, 128) rgb(128, 128, 128); border-width: medium 1px 1px; padding: 0in 0.04in 0.04in;" width="50%">
+						<p class="western" align="center"><font face="Liberation Sans, sans-serif"><font style="font-size: 12pt;" size="3">Help
 						and information about this website</font></font></p>
 					</td>
 				</tr>
-			</table>
-			<p class="western" align="center" style="font-style: normal; text-decoration: none">
-			<br/>
-<br/>
+			</tbody></table>
+			<p class="western" style="font-style: normal; text-decoration: none;" align="center">
+			<br>
+<br>
 
 			</p>
 		</td>
-		<td width="22%" bgcolor="#bee3d3" style="background: #bee3d3" style="border-top: none; border-bottom: 1px solid #009353; border-left: 1px solid #009353; border-right: 1px solid #009353; padding: 0in">
-			<p class="western" align="left" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in; font-style: normal; text-decoration: none">
-			<br/>
-<br/>
-
-			</p>
-			<p class="western" align="left" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in; font-style: normal; text-decoration: none">
-			<font color="#000000"><font face="Liberation Sans, sans-serif"><font size="3" style="font-size: 12pt"><b><span style="text-decoration: none">April
-			30<sup>th</sup> 2018 : This site was created.</span></b></font></font></font></p>
-			<p class="western" align="left" style="border-top: none; border-bottom: 1px solid #000000; border-left: none; border-right: none; padding-top: 0in; padding-bottom: 0.03in; padding-left: 0in; padding-right: 0in; font-style: normal; text-decoration: none">
-			<br/>
-<br/>
-
-			</p>
-			<p class="western" align="left" style="font-style: normal; text-decoration: none">
-			<br/>
-<br/>
-
-			</p>
-		</td>
+		<td style="background: rgb(190, 227, 211) none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" bgcolor="#bee3d3" width="22%">This site was created!!!! -- April 30th, 2018<br>
+<br>
+</td>
 	</tr>
-</table>
-<p align="left"><br/>
-<br/>
+</tbody></table>
+<p align="left"><br>
+<br>
 
 </p>
-</body>
-</html>
+
+</body></html>
