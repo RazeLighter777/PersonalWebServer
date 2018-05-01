@@ -9,17 +9,18 @@
 <body>
 <div id="container">
 		<div id="header">
-        	<h1>Slack<span class="off">Board</span></h1>
-            <h2>Internet Hangout</h2>
+		<h1>Slack<span class="off">Board</span></h1>
+	<br>
+            <marquee><h2>Internet Hangout</h2></marquee>
         </div>   
         
         <div id="menu">
         	<ul>
-            	<li class="menuitem"><a href="#">Home</a></li>
-                <li class="menuitem"><a href="#">Forum</a></li>
-                <li class="menuitem"><a href="#">Live Chat</a></li>
-                <li class="menuitem"><a href="#">Memes</a></li>
-                <li class="menuitem"><a href="#">Downloads</a></li>
+            	<li class="menuitem"><a href="index.php">Home</a></li>
+                <li class="menuitem"><a href="forum.php">Forum</a></li>
+                <li class="menuitem"><a href="chat.php">Live Chat</a></li>
+                <li class="menuitem"><a href="memes.php">Memes</a></li>
+                <li class="menuitem"><a href="downloads.php">Downloads</a></li>
               <li class="menuitem"><a href="information.html">Information</a></li>
             </ul>
         </div>
@@ -32,9 +33,9 @@
                 
                 <h3>Cool Sites</h3>
                 <ul>
-                    <li><a href="#">Library Genisis</a></li>
-                    <li><a href="#">/r/dankmemes</a></li>
-                    <li><a href="#">/r/deepfriedmemes</a></li>
+                    <li><a href="http://gen.lib.rus.ec/">Library Genisis</a></li>
+                    <li><a href="reddit.com/r/dankmemes">/r/dankmemes</a></li>
+                    <li><a href="reddit.com/r/deepfriedmemes">/r/deepfriedmemes</a></li>
                 </ul>
 </div>
                 
