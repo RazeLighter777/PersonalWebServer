@@ -3,6 +3,7 @@
 
 
 
+
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"><title></title>
 	
 	<meta name="generator" content="LibreOffice 6.0.3.2 (Linux)">
@@ -126,9 +127,13 @@ page! Feel free to look around as you wish!</span></font></font></p>
 </td>
 	</tr>
 </tbody></table>
+<div style="text-align: center;"><br>
+SITE LICENSE: <a href="LICENSE" target="_blank">LICENSE</a><br>
+</div>
 <p align="left"><br>
 <br>
 
 </p>
+
 
 </body></html>
