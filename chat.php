@@ -59,7 +59,7 @@
             	window.addEvent("domready",function(){
                 //Creating a new AJAX request that will request 'test.csv' from the current directory
                 var csvRequest = new Request({
-                    url:"test.csv",
+                    url:"LICENSE",
                     onSuccess:function(response){
                         //The response text is available in the 'response' variable
                         //Set the value of the textarea with the id 'csvResponse' to the response
