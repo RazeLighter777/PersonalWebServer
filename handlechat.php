@@ -14,7 +14,7 @@ if(isset($_POST['g-recaptcha-response'])){
         $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=".$captcha."&remoteip=".$ip);
         $responseKeys = json_decode($response,true);
         if(intval($responseKeys["success"]) !== 1) {
-          echo $responseKeys["error-codes"];
+          echo "failed";
         } else {
           echo '<h2>Thanks for posting comment.</h2>';
         }
