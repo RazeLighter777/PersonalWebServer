@@ -58,7 +58,7 @@
 		<h4>Type Message Here:</h4>
 		
 <!---Message form--->
-		<form action="handlenewmessage.php" method="post">
+		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
 		<input type="text" name="msg" id="msg" placeholder="Message">
                 <div class="g-recaptcha" data-sitekey="6LcizFYUAAAAAFDM5gnvYFIew7cnicXYb_G7Hft4"></div>
