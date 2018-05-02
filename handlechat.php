@@ -2,8 +2,8 @@
 <?php
 $secretKey="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI";
 if(isset($_POST['g-recaptcha-response'])){
-          //$captcha=$_POST['g-recaptcha-response'];
-          print($captcha);
+          $captcha=$_POST['g-recaptcha-response'];
+          //print($captcha);
         }
         if(!$captcha){
           echo '<h2>Please check the the captcha form.</h2>';
