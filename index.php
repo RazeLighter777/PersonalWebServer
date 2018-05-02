@@ -16,7 +16,8 @@
         
         <div id="menu">
         	<ul>
-            	<li class="menuitem"><a href="index.php">Home</a></li>
+		<li class="menuitem"><a href="index.php">Home</a></li>
+		<li class="menuitem"><a href="games.php">Games</a></li>
                 <li class="menuitem"><a href="forum.php">Forum</a></li>
                 <li class="menuitem"><a href="chat.php">Live Chat</a></li>
                 <li class="menuitem"><a href="memes.php">Memes</a></li>
