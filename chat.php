@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<script src='https://www.google.com/recaptcha/api.js'></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 <title>SLACKBOARD CHAT</title>
@@ -54,14 +53,15 @@
         <div id="content_top"></div>
         <div id="content_main">
 		<h3>Chat Room LIVE</h3>
-		
+		<div id="box">
+
+		</div>
 		<h4>Type Message Here:</h4>
 		
 <!---Message form--->
-		<form action="handlechat.php" method="post">
+		<form action="handlenewmessage.php" method="post">
 		<label value="Message <240 characters" for="msg">
 		<input type="text" name="msg" id="msg" placeholder="Message">
-                <div class="g-recaptcha" data-sitekey="6LcizFYUAAAAAFDM5gnvYFIew7cnicXYb_G7Hft4"></div>
 		</form>
 
 	</div>

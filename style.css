@@ -264,6 +264,14 @@ color:#7198E1;
 	
 }
 
+#box{
+    position:absolute;
+    width: 50%;
+    height: 50%;
+    top:0;
+    left:0;
+    border: solid blue 2px;
+}
 
 html, body {
 text-align: center;
