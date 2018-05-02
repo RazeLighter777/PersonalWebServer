@@ -10,14 +10,20 @@ if($response['success'] == true)
 	$username = "webserver";
 	$password = "dbpass";
 	$dbname = "chatdb";
-
+	
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
 	// Check connection
 	if ($conn->connect_error) {
         	die("Connection failed: " . $conn->connect_error);
 	} else {
-        	print("Connection worked!");
+		print("Connection worked!");
+		$ip = ip2long($_SERVER["REMOTE_ADDR"]);
+		$cutmessage = substr($_POST["message"],0,240);
+		
+		$sql = "INSERT INTO chat (ipaddr, message, posttime)
+    VALUES (". $ip . ", \"". $cutmessage . "\", now())";
+		print($sql);
 	}
 
 }
