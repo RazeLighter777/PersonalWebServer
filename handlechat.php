@@ -1,6 +1,6 @@
 
 <?php
-$secretKey="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI"
+$secretKey="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI";
 if(isset($_POST['g-recaptcha-response'])){
           $captcha=$_POST['g-recaptcha-response'];
         }
