@@ -6,8 +6,8 @@ $response = json_decode(file_get_contents("https://www.google.com/recaptcha/api/
 
 if($response['success'] == true)
 {
-    echo 'true';
+    echo 'Submission success!';
 }else{
-    echo 'false';
+    echo 'Submission Failed. Did you forget to do the captcha?';
 }
 ?>
