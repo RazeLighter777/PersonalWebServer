@@ -19,7 +19,7 @@ if($response['success'] == true)
 	} else {
 		print("Connection worked!");
 		$ip = ip2long($_SERVER["REMOTE_ADDR"]);
-		$cutmessage = substr($_POST["message"],0,240);
+		$cutmessage = substr($_POST["msg"],0,240);
 		
 		$sql = "INSERT INTO chat (ipaddr, message, posttime)
     VALUES (". $ip . ", \"". $cutmessage . "\", now())";
