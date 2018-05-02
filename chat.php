@@ -52,23 +52,14 @@
         <div id="content_top"></div>
         <div id="content_main">
 		<h3>Chat Room LIVE</h3>
-
-	<!--- This script to open a file --->
-	<script type="text/javascript">
-            	//This event is called when the DOM is fully loaded
-            	window.addEvent("domready",function(){
-                //Creating a new AJAX request that will request 'test.csv' from the current directory
-                var csvRequest = new Request({
-                    url:"LICENSE",
-                    onSuccess:function(response){
-                        //The response text is available in the 'response' variable
-                        //Set the value of the textarea with the id 'csvResponse' to the response
-                        $("csvResponse").value = response;
-                    }
-                }).send(); //Don't forget to send our request!
-            });
-	</script>
-
+		
+		<h4>Type Message Here:</h4>
+		
+<!---Message form--->
+		<form action="handlenewmessage.php" method="post">
+		<label value="Message <240 characters" for="msg">
+		<input type="text" name="msg" id="msg" placeholder="Message">
+		</form>
 
 	</div>
         <div id="content_bottom"></div>
@@ -78,3 +69,4 @@
    </div>
 </body>
 </html>
+
