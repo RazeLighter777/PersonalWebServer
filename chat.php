@@ -73,9 +73,10 @@
 				echo "<br> ANON " . $row["posttime"] . " : " . $row["message"];
 			}			
 		}
+?>
 		</div>
 		<h4>Type Message Here:</h4>
-?>	
+
 <!---Message form --->
 		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
