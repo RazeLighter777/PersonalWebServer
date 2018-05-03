@@ -25,7 +25,8 @@ if($response['success'] == true)
 		if ($conn->query($sql) === TRUE) {
 			echo "Message submitted correctly;";
 		} else {
-			echo "Query could not be made";
+			echo "Error: " . $sql . "<br>" . $conn->error;
+
 		}
 		
 				
