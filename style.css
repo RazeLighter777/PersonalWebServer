@@ -265,7 +265,7 @@ color:#7198E1;
 }
 
 #box{
-    position:absolute;
+    position:static;
     width: 50%;
     height: 50%;
     top:0;
