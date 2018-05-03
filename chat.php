@@ -55,7 +55,7 @@
         <div id="content_main">
 		<h3>Chat Room LIVE</h3>
 		<div id="box">
-
+		<h3>CHATROOM</h3>
 		</div>
 		<h4>Type Message Here:</h4>
 	
