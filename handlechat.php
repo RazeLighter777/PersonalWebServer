@@ -22,9 +22,13 @@ if($response['success'] == true)
 		
 		$sql = "INSERT INTO chat (ipaddr, message, posttime)
     VALUES (". $ip . ", \"". $cutmessage . "\", now())";
-		$conn->exec($sql);
-		echo "Message submitted.";
+		if ($conn->query($sql) === TRUE) {
+			echo "Message submitted correctly;";
+		} else {
+			echo "Query could not be made";
+		}
 		
+				
 	}
 
 }
