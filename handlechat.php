@@ -17,13 +17,14 @@ if($response['success'] == true)
 	if ($conn->connect_error) {
         	die("Connection failed: " . $conn->connect_error);
 	} else {
-		print("Connection worked!");
 		$ip = ip2long($_SERVER["REMOTE_ADDR"]);
 		$cutmessage = substr($_POST["msg"],0,240);
 		
 		$sql = "INSERT INTO chat (ipaddr, message, posttime)
     VALUES (". $ip . ", \"". $cutmessage . "\", now())";
-		print($sql);
+		$conn->exec($sql);
+		echo "Message submitted.";
+		
 	}
 
 }
