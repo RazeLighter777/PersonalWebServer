@@ -71,13 +71,13 @@
 			$result = $conn->query($sql);
 
 			while ($row = $result->fetch_assoc()) {
-				echo "<br> ANON " . $row["posttime"] . " : " . $row["message"];
+				echo "<br><h6>ANON" . $row["posttime"] . " : " . $row["message"]. "</h6>";
 			}			
 		}
 ?>
 		</div>
 		<h4>Type Message Here:</h4>
-<!---Message form --->
+
 		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
 		<input type="text" name="msg" id="msg" placeholder="Message <240 characters">
