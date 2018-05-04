@@ -1,4 +1,4 @@
-
+header('Location: chat.php');
 <?php
 $captchaSecretCode="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI";
 
@@ -26,7 +26,7 @@ if($response['success'] == true)
 			echo "Message submitted correctly;";
 		} else {
 			echo "Error: " . $sql . "<br>" . $conn->error;
-
+			
 		}
 		
 				
