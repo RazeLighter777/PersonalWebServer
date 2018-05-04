@@ -76,12 +76,7 @@
 		}
 ?>
 		</div>
-<<<<<<< HEAD
-		<h4>Type Message Here:</h4>	
-=======
 		<h4>Type Message Here:</h4>
-
->>>>>>> a0139fb589941409198cd76e3f86576ccddd4ad9
 <!---Message form --->
 		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
