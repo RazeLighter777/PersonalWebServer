@@ -67,16 +67,21 @@
 		if ($conn->connect_error)  {
 			die("Connection failed: " . $conn->connect_error);
 		} else {
-			$sql = "SELECT message,posttime FROM chat";
+			$sql = "SELECT message,posttime FROM chat LIMIT 30";
 			$result = $conn->query($sql);
+
 			while ($row = $result->fetch_assoc()) {
 				echo "<br> ANON " . $row["posttime"] . " : " . $row["message"];
 			}			
 		}
 ?>
 		</div>
+<<<<<<< HEAD
+		<h4>Type Message Here:</h4>	
+=======
 		<h4>Type Message Here:</h4>
 
+>>>>>>> a0139fb589941409198cd76e3f86576ccddd4ad9
 <!---Message form --->
 		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
