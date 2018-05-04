@@ -54,7 +54,7 @@
         <div id="content_top"></div>
         <div id="content_main">
 		<h3>Chat Room</h3>
-		<br>This chat room is totally anonymous, however, we do log your IP on our end in case I  must ban somebody.<br>You do not need an account, but you must fill out the captcha. To see new messages, just <br> refresh the page.<br>
+		<br>This chat room is totally anonymous, however, we do log your IP on our end in case I  must ban somebody.<br>You do not need an account, but you must fill out the captcha. To see new messages, just <br> refresh the page.<br><br>
 		<div id="box">
 <?php
 
