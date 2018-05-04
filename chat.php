@@ -91,6 +91,7 @@ if ($conn->connect_error) {
 
 
 		</div>
+		<br>
 		<h4>Type Message Here:</h4>
 	
 <!---Message form--->
