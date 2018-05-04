@@ -69,11 +69,11 @@ if ($conn->connect_error) {
        	die("Connection failed: " . $conn->connect_error);
 } else {
 
-	$sql = "SELECT message,posttime FROM chat";
+	$sql = "SELECT message,posttime FROM chat LIMIT 30";
 	$result = $conn->query($sql) or die(mysql_error());
 	if ($result->num_rows > 0) {
 		while($row = $result->fetch_assoc()) {
-			echo $row["posttime"] . "ANON: " . $row["message"] . "<br><br>";
+			echo $row["posttime"]. " :: " . $row["message"] . "<br><br>";
 		}
 	}
 
