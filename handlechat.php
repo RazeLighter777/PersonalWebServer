@@ -23,7 +23,7 @@ if($response['success'] == true)
 		$sql = "INSERT INTO chat (ipaddr, message, posttime)
     VALUES (". $ip . ", \"". $cutmessage . "\", now())";
 		if ($conn->query($sql) === TRUE) {
-			echo "<meta http-equiv=\"refresh\" content=\"0;url=finalpage.html\">";
+			echo "<meta http-equiv=\"refresh\" content=\"0;url=chat.php\">";
 		} else {
 			echo "Error: " . $sql . "<br>" . $conn->error;
 						
