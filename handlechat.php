@@ -1,4 +1,4 @@
-header('Location: chat.php');
+ <meta http-equiv="refresh" content="0;url=chat.php">
 <?php
 $captchaSecretCode="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI";
 
