@@ -1,4 +1,4 @@
- <meta http-equiv="refresh" content="0;url=chat.php">
+
 <?php
 $captchaSecretCode="6LcizFYUAAAAAKxkxYwQa8QF7F5IAsvZ_XoDjUEI";
 
@@ -23,10 +23,10 @@ if($response['success'] == true)
 		$sql = "INSERT INTO chat (ipaddr, message, posttime)
     VALUES (". $ip . ", \"". $cutmessage . "\", now())";
 		if ($conn->query($sql) === TRUE) {
-			echo "Message submitted correctly;";
+			echo "<meta http-equiv=\"refresh\" content=\"0;url=finalpage.html\">";
 		} else {
 			echo "Error: " . $sql . "<br>" . $conn->error;
-			
+						
 		}
 		
 				
