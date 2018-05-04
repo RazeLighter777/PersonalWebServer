@@ -70,7 +70,7 @@ if ($conn->connect_error) {
 } else {
 
 	$sql = "SELECT message,posttime FROM chat";
-	$result = $conn->query($sql);
+	$result = $conn->query($sql) or die(mysql_error());
 	
         echo "Worked!";
 	
