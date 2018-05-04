@@ -72,7 +72,7 @@ if ($conn->connect_error) {
 	$sql = "SELECT message,posttime FROM chat";
 	$result = $conn->query($sql);
 
-	print($result);
+	print("<h3>" . $result . "</h3>");
 }
 
 
