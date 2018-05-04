@@ -73,7 +73,7 @@ if ($conn->connect_error) {
 	$result = $conn->query($sql) or die(mysql_error());
 	if ($result->num_rows > 0) {
 		while($row = $result->fetch_assoc()) {
-			echo $row["posttime"];
+			echo $row["posttime"] . "ANON: " . $row["message"] . "<br><br>";
 		}
 	}
 
