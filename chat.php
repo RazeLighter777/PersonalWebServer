@@ -69,8 +69,8 @@ if ($conn->connect_error) {
        	die("Connection failed: " . $conn->connect_error);
 } else {
 
-	//$sql = "SELECT message,posttime FROM chat";
-	//$result = $conn->query($sql);
+	$sql = "SELECT message,posttime FROM chat";
+	$result = $conn->query($sql);
 
 	//print("<h3>" . $result . "</h3>");
 }
