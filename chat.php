@@ -55,33 +55,15 @@
         <div id="content_main">
 		<h3>Chat Room LIVE</h3>
 		<div id="box">
-		<h3>CHATROOM</h3>
-		<!---This script makes a php request to the database to read the chat--->
-<?php	
-		$servername = "localhost";
-		$username = "webserver";
-		$password = "dbpass";
-		$dbname = "chatdb";
 
-		$conn = new mysqli($servername, $username, $password, $dbname);
-		if ($conn->connect_error)  {
-			die("Connection failed: " . $conn->connect_error);
-		} else {
-			$sql = "SELECT message,posttime FROM chat LIMIT 30";
-			$result = $conn->query($sql);
-
-			while ($row = $result->fetch_assoc()) {
-				echo "<br><h6>ANON" . $row["posttime"] . " : " . $row["message"]. "</h6>";
-			}			
-		}
-?>
 		</div>
 		<h4>Type Message Here:</h4>
-
+	
+<!---Message form--->
 		<form action="handlechat.php" method="post">
 		<label value="Message <240 characters" for="msg">
-		<input type="text" name="msg" id="msg" placeholder="Message <240 characters">
-		<br><div class="g-recaptcha" data-sitekey="6LcizFYUAAAAAFDM5gnvYFIew7cnicXYb_G7Hft4"></div>
+		<input type="text" name="msg" id="msg" placeholder="Message">
+		<div class="g-recaptcha" data-sitekey="6LcizFYUAAAAAFDM5gnvYFIew7cnicXYb_G7Hft4"></div>
 		</form>
 
 	</div>
