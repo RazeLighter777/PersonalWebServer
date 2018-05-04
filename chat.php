@@ -71,8 +71,14 @@ if ($conn->connect_error) {
 
 	$sql = "SELECT message,posttime FROM chat";
 	$result = $conn->query($sql) or die(mysql_error());
-	
-        echo "Worked!";
+	if ($result->num_rows > 0) {
+		print("rows was greater than zero");
+	}
+
+} else {
+    echo "0 results";
+}
+ 	       
 	
 }
 
