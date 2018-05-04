@@ -75,9 +75,7 @@ if ($conn->connect_error) {
 		print("rows was greater than zero");
 	}
 
-} else {
-    echo "0 results";
-}
+
  	       
 	
 }
